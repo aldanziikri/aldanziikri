@@ -1,4 +1,5 @@
 ## Hi 👋 My name is Aldan and i am a student at SMKN 2 Kota Jambi.
+
 ## SMKN STUDENT | GAME DEVELOPER | WEB DEVELOPER
 
 ##
@@ -12,3 +13,5 @@
 </div>
 
 ###
+
+### WAKAKAK
