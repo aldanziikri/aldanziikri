@@ -1,8 +1,8 @@
-# Hi there, I'm Aldan Ziikri! 👋
+# Hi there, I'm Aldan Ziikri
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast;Always+Learning+New+Things)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;Web+%26+Mobile+Developer;Clean+Code+Advocate;Problem+Solver)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/aldanziikri)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://aldanziikri.dev)
@@ -11,24 +11,24 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
 ```javascript
 const aldanziikri = {
     pronouns: "He/Him",
-    location: "Jakarta, Indonesia 🇮🇩",
-    currentFocus: "Building amazing web & mobile applications",
-    hobbies: ["Coding", "Gaming", "Photography", "Coffee ☕"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😅"
+    location: "Jambi, Indonesia",
+    role: "Full Stack Web & Mobile Developer",
+    currentFocus: "Building scalable web and mobile applications",
+    expertise: ["Frontend", "Backend", "Mobile Development", "UI/UX"],
+    funFact: "I turn coffee into code"
 };
 ```
 
-- 🔭 I'm currently working on **something amazing** (coming soon!)
-- 🌱 I'm currently learning **React Native & Node.js**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **JavaScript, React, Flutter, or anything tech!**
-- 📫 How to reach me: **hello@aldanziikri.dev**
-- ⚡ Fun fact: **I can code for hours but still forget to commit my changes** 🤦‍♂️
+- Currently working on **innovative web and mobile solutions**
+- Learning **advanced system architecture and cloud technologies**
+- Looking to collaborate on **impactful open source projects**
+- Ask me about **JavaScript, React, Flutter, Node.js, or system design**
+- Reach me at: **hello@aldanziikri.dev**
 
 ## Tech Stack
 
@@ -65,7 +65,7 @@ const aldanziikri = {
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -77,62 +77,38 @@ const aldanziikri = {
 
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=aldanziikri&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
-
-## 📈 Activity Graph
+## Activity Graph
 <div align="center">
   
 [![Aldan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aldanziikri&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-## 🎯 Current Projects
+## Current Projects
 
-### 🚧 Work in Progress
-- 💻 **Personal Portfolio Website** - Building my digital presence
-- 📱 **Mobile App Project** - Secret project (coming soon!)
-- 🌐 **Open Source Contributions** - Contributing to the community
+### Work in Progress
+- **Personal Portfolio Website** - Showcasing professional work and expertise
+- **Mobile Application** - Cross-platform solution with Flutter
+- **Open Source Contributions** - Contributing to developer community
 
-### 🎉 Recent Achievements
-- ✅ Completed 100+ commits this year
-- ✅ Contributed to 5+ open source projects
-- ✅ Built and deployed 3 full-stack applications
+### Recent Achievements
+- Completed 100+ commits this year
+- Contributed to multiple open source projects
+- Built and deployed full-stack applications
 
-## 📝 Latest Blog Posts
+## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Building Scalable React Applications](https://aldanziikri.dev/blog/scalable-react)
-- [Flutter vs React Native: Which One to Choose?](https://aldanziikri.dev/blog/flutter-vs-react-native)
-- [JavaScript Tips and Tricks for Better Code](https://aldanziikri.dev/blog/javascript-tips)
+- [Flutter vs React Native: A Developer's Perspective](https://aldanziikri.dev/blog/flutter-vs-react-native)
+- [Modern JavaScript Best Practices](https://aldanziikri.dev/blog/javascript-best-practices)
 <!-- BLOG-POST-LIST:END -->
-
-## 💡 Random Dev Quote
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-## 🎵 Spotify Playing
-<div align="center">
-
-[![Spotify](https://spotify-now-playing-aldanziikri.vercel.app/api/spotify)](https://open.spotify.com/user/aldanziikri)
-
-</div>
 
 ---
 
 <div align="center">
   
-### 💭 "Code is poetry written in logic"
-
-**Thanks for visiting! Let's connect and build something amazing together! 🚀**
+**Thanks for visiting! Let's connect and build something great together.**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aldanziikri&color=brightgreen&style=flat-square)
-![Followers](https://img.shields.io/github/followers/aldanziikri?style=social)
 
 </div>
