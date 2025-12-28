@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Halo,%20Saya%20Aldan%20Ziikri%20👋&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20Android%20Dev%20%7C%20Desktop%20Dev&descAlignY=55&descAlign=50" alt="Header Aldan"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Halo,%20Saya%20Aldan%20Ziikri%20👋&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Dev%20%7C%20Android%20Dev%20Specialist%20%7C%20Desktop%20Dev&descAlignY=55&descAlign=50" alt="Header Aldan"/>
 
   <h3>🇮🇩 Jambi, Indonesia</h3>
 
